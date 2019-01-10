@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests for review
 
 ### Copyright
 
-2014 Git.Trainig
+2014 Git.Trainig. All rights reserved.
